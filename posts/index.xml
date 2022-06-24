@@ -6,19 +6,7 @@
     <description>Recent content in Posts on hello world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2022 12:17:56 +0800</lastBuildDate><atom:link href="http://cola5.cc/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://cola5.cc/posts/test/</link>
-      <pubDate>Fri, 24 Jun 2022 12:17:56 +0800</pubDate>
-      
-      <guid>http://cola5.cc/posts/test/</guid>
-      <description>​	六王毕，四海一，蜀山兀，阿房出。覆压三百余里，隔离天日。骊山北构而西折，直走咸阳。二川溶溶，流入宫墙。五步一楼，十步一阁；廊腰缦回，檐牙高啄；各抱地势，钩心斗角。盘盘焉，囷囷焉，蜂房水涡，矗不知其几千万落。长桥卧波，未云何龙？复道行空，不霁何虹？高低冥迷，不知西东。歌台暖响，春光融融；舞殿冷袖，风雨凄凄。一日之内，一宫之间，而气候不齐。
-　妃嫔媵嫱，王子皇孙，辞楼下殿，辇来于秦。朝歌夜弦，为秦宫人。明星荧荧，开妆镜也；绿云扰扰，梳晓鬟也；渭流涨腻，弃脂水也；烟斜雾横，焚椒兰也。雷霆乍惊，宫车过也；辘辘远听，杳不知其所之也。一肌一容，尽态极妍，缦立远视，而望幸焉。有不见者三十六年。燕赵之收藏，韩魏之经营，齐楚之精英，几世几年，剽掠其人，倚叠如山。一旦不能有，输来其间。鼎铛玉石，金块珠砾，弃掷逦迤，秦人视之，亦不甚惜。
-　嗟乎！一人之心，千万人之心也。秦爱纷奢，人亦念其家。奈何取之尽锱铢，用之如泥沙？使负栋之柱，多于南亩之农夫；架梁之椽，多于机上之工女；钉头磷磷，多于在庾之粟粒；瓦缝参差，多于周身之帛缕；直栏横槛，多于九土之城郭；管弦呕哑，多于市人之言语。使天下之人，不敢言而敢怒。独夫之心，日益骄固。戍卒叫，函谷举，楚人一炬，可怜焦土！
-　呜呼！灭六国者六国也，非秦也；族秦者秦也，非天下也。嗟乎！使六国各爱其人，则足以拒秦；使秦复爱六国之人，则递三世可至万世而为君，谁得而族灭也？秦人不暇自哀，而后人哀之；后人哀之而不鉴之，亦使后人而复哀后人也。</description>
-    </item>
-    
+    <lastBuildDate>Thu, 23 Jun 2022 22:24:30 +0800</lastBuildDate><atom:link href="http://cola5.cc/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
       <link>http://cola5.cc/posts/first/</link>
@@ -26,6 +14,68 @@
       
       <guid>http://cola5.cc/posts/first/</guid>
       <description>hello world 🔗 this is a test file  </description>
+    </item>
+    
+    <item>
+      <title>Code Content</title>
+      <link>http://cola5.cc/posts/test/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://cola5.cc/posts/test/</guid>
+      <description>t1 🔗aaaa
+Test aaa text.
+t1.1 🔗aaaa
+t1.2 🔗aaaa
+t1.2.1 🔗aaaa
+t1.2.2 🔗aaaa
+t2 🔗aaaa
+t3 🔗 One  /testingsomecode/
+Two Three  超宽显示 var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;; 超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示 var a = &amp;quot;text&amp;quot;;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://cola5.cc/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cola5.cc/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://cola5.cc/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cola5.cc/posts/rich-content/</guid>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://cola5.cc/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cola5.cc/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://cola5.cc/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cola5.cc/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://cola5.cc/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cola5.cc/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>

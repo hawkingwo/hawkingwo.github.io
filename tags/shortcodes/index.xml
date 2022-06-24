@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hello world</title>
-    <link>http://cola5.cc/</link>
-    <description>Recent content on hello world</description>
+    <title>shortcodes on hello world</title>
+    <link>http://cola5.cc/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on hello world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 22:24:30 +0800</lastBuildDate><atom:link href="http://cola5.cc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://cola5.cc/about/</link>
-      <pubDate>Thu, 23 Jun 2022 23:08:48 +0800</pubDate>
-      
-      <guid>http://cola5.cc/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>http://cola5.cc/posts/first/</link>
-      <pubDate>Thu, 23 Jun 2022 22:24:30 +0800</pubDate>
-      
-      <guid>http://cola5.cc/posts/first/</guid>
-      <description>hello world 🔗 this is a test file  </description>
-    </item>
-    
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://cola5.cc/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Content</title>
       <link>http://cola5.cc/posts/test/</link>
@@ -43,48 +25,12 @@ Two Three  超宽显示 var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://cola5.cc/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cola5.cc/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Rich Content</title>
       <link>http://cola5.cc/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://cola5.cc/posts/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://cola5.cc/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cola5.cc/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://cola5.cc/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cola5.cc/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>http://cola5.cc/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cola5.cc/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>

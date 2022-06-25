@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://cola5.cc/</loc>
+    <lastmod>2022-06-25T10:37:04+08:00</lastmod>
+  </url><url>
+    <loc>http://cola5.cc/posts/202206/helloworld/</loc>
+    <lastmod>2022-06-25T10:37:04+08:00</lastmod>
+  </url><url>
+    <loc>http://cola5.cc/posts/</loc>
+    <lastmod>2022-06-25T10:37:04+08:00</lastmod>
+  </url><url>
     <loc>http://cola5.cc/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://cola5.cc/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://cola5.cc/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://cola5.cc/tags/html/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://cola5.cc/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://cola5.cc/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://cola5.cc/categories/syntax/</loc>

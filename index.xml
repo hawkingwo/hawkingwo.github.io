@@ -6,7 +6,24 @@
     <description>Recent content on hello world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jun 2022 10:37:04 +0800</lastBuildDate><atom:link href="http://cola5.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 21:51:21 +0800</lastBuildDate><atom:link href="http://cola5.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Git</title>
+      <link>http://cola5.cc/posts/202206/using-git/</link>
+      <pubDate>Sun, 26 Jun 2022 21:51:21 +0800</pubDate>
+      
+      <guid>http://cola5.cc/posts/202206/using-git/</guid>
+      <description>git 常用指令 🔗  objective 开启提示    提交	git commit -m &amp;quot;&amp;quot;
+  创建分支  git branch &amp;lt;分支名&amp;gt;
+  切换分支 git checkout &amp;lt;分支名&amp;gt;
+  合并分支
+  git merge &amp;lt;分支名&amp;gt;
+  git rebase &amp;lt;分支名&amp;gt;
+   注意：先确定当前所处分支，再进行合并（用*标记） 区别：merge 以当前分支为主，合并另一分支；rebase  以合并分支为主，将当前分支合并到合并分支中；    指定提交记录(希哈值) git checkout &amp;lt;branch&amp;gt;
+  相对引用
+ git checkout HEAD^ j将HEAD向上移动一位 git checkout HEAD~4 移动四位 git branch -f main HEAD~3 将 main 分支强制指向 HEAD 的第 3 级父提交    </description>
+    </item>
+    
     <item>
       <title>Hello,world</title>
       <link>http://cola5.cc/posts/202206/helloworld/</link>
@@ -22,12 +39,39 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>http://cola5.cc/about/</link>
+      <pubDate>Thu, 23 Jun 2022 23:08:48 +0800</pubDate>
+      
+      <guid>http://cola5.cc/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://cola5.cc/posts/first/</link>
+      <pubDate>Thu, 23 Jun 2022 22:24:30 +0800</pubDate>
+      
+      <guid>http://cola5.cc/posts/first/</guid>
+      <description>hello world 🔗 this is a test file  </description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>http://cola5.cc/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://cola5.cc/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://cola5.cc/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cola5.cc/posts/rich-content/</guid>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
     </item>
     
     <item>

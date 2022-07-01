@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo</title>
+    <title>Posts on hawkingwu</title>
     <link>https://cola5.cc/posts/</link>
-    <description>Recent content in Posts on Hugo</description>
+    <description>Recent content in Posts on hawkingwu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 21:51:21 +0800</lastBuildDate><atom:link href="https://cola5.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 15:55:41 +0800</lastBuildDate><atom:link href="https://cola5.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿房宫赋</title>
+      <link>https://cola5.cc/posts/%E9%98%BF%E6%88%BF%E5%AE%AB%E8%B5%8B/</link>
+      <pubDate>Fri, 01 Jul 2022 15:55:41 +0800</pubDate>
+      
+      <guid>https://cola5.cc/posts/%E9%98%BF%E6%88%BF%E5%AE%AB%E8%B5%8B/</guid>
+      <description>​ 六王毕，四海一，蜀山兀，阿房出。覆压三百余里，隔离天日。骊山北构而西折，直走咸阳。二川溶溶，流入宫墙。五步一楼，十步一阁；廊腰缦回，檐牙高</description>
+    </item>
+    
     <item>
       <title>Using Git</title>
       <link>https://cola5.cc/posts/using-git/</link>
@@ -17,12 +26,12 @@
     </item>
     
     <item>
-      <title>Hello,world</title>
-      <link>https://cola5.cc/posts/helloworld/</link>
+      <title>项脊轩志</title>
+      <link>https://cola5.cc/posts/%E9%A1%B9%E8%84%8A%E8%BD%A9%E5%BF%97/</link>
       <pubDate>Sat, 25 Jun 2022 10:37:04 +0800</pubDate>
       
-      <guid>https://cola5.cc/posts/helloworld/</guid>
-      <description>项脊轩，旧南阁子也。室仅方丈，可容一人居。百年老屋，尘泥渗漉，雨泽下注；每移案，顾视无可置者。又北向，不能得日，日过午已昏。余稍为修葺，使不</description>
+      <guid>https://cola5.cc/posts/%E9%A1%B9%E8%84%8A%E8%BD%A9%E5%BF%97/</guid>
+      <description>​ 项脊轩，旧南阁子也。室仅方丈，可容一人居。百年老屋，尘泥渗漉，雨泽下注；每移案，顾视无可置者。又北向，不能得日，日过午已昏。余稍为修葺，使</description>
     </item>
     
     <item>
@@ -31,7 +40,7 @@
       <pubDate>Thu, 23 Jun 2022 22:24:30 +0800</pubDate>
       
       <guid>https://cola5.cc/posts/first/</guid>
-      <description>hello world 🔗 this is a test file  </description>
+      <description> this is a test file  </description>
     </item>
     
     <item>

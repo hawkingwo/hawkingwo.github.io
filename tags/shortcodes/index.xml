@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shortcodes on hello world</title>
-    <link>http://cola5.cc/tags/shortcodes/</link>
-    <description>Recent content in shortcodes on hello world</description>
+    <title>shortcodes on Hugo</title>
+    <link>https://cola5.cc/tags/shortcodes/</link>
+    <description>Recent content in shortcodes on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://cola5.cc/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cola5.cc/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>http://cola5.cc/posts/rich-content/</link>
+      <link>https://cola5.cc/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cola5.cc/posts/rich-content/</guid>
+      <guid>https://cola5.cc/posts/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
     </item>
     

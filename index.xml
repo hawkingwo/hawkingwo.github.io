@@ -1,103 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hello world</title>
-    <link>http://cola5.cc/</link>
-    <description>Recent content on hello world</description>
+    <title>Hugo</title>
+    <link>https://cola5.cc/</link>
+    <description>Recent content on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jun 2022 21:51:21 +0800</lastBuildDate><atom:link href="http://cola5.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 21:51:21 +0800</lastBuildDate><atom:link href="https://cola5.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Git</title>
-      <link>http://cola5.cc/posts/202206/using-git/</link>
+      <link>https://cola5.cc/posts/using-git/</link>
       <pubDate>Sun, 26 Jun 2022 21:51:21 +0800</pubDate>
       
-      <guid>http://cola5.cc/posts/202206/using-git/</guid>
-      <description>git 常用指令 🔗  objective 开启提示    提交	git commit -m &amp;quot;&amp;quot;
-  创建分支  git branch &amp;lt;分支名&amp;gt;
-  切换分支 git checkout &amp;lt;分支名&amp;gt;
-  合并分支
-  git merge &amp;lt;分支名&amp;gt;
-  git rebase &amp;lt;分支名&amp;gt;
-   注意：先确定当前所处分支，再进行合并（用*标记） 区别：merge 以当前分支为主，合并另一分支；rebase  以合并分支为主，将当前分支合并到合并分支中；    指定提交记录(希哈值) git checkout &amp;lt;branch&amp;gt;
-  相对引用
- git checkout HEAD^ j将HEAD向上移动一位 git checkout HEAD~4 移动四位 git branch -f main HEAD~3 将 main 分支强制指向 HEAD 的第 3 级父提交    </description>
+      <guid>https://cola5.cc/posts/using-git/</guid>
+      <description>git 常用指令 🔗 objective 开启提示 提交 git commit -m &amp;quot;&amp;quot; 创建分支 git branch &amp;lt;分支名&amp;gt; 切换分支 git checkout &amp;lt;分支名&amp;gt; 合并分支 git merge &amp;lt;分支名&amp;gt; git rebase</description>
     </item>
     
     <item>
       <title>Hello,world</title>
-      <link>http://cola5.cc/posts/202206/helloworld/</link>
+      <link>https://cola5.cc/posts/helloworld/</link>
       <pubDate>Sat, 25 Jun 2022 10:37:04 +0800</pubDate>
       
-      <guid>http://cola5.cc/posts/202206/helloworld/</guid>
-      <description>项脊轩，旧南阁子也。室仅方丈，可容一人居。百年老屋，尘泥渗漉，雨泽下注；每移案，顾视无可置者。又北向，不能得日，日过午已昏。余稍为修葺，使不上漏。前辟四窗，垣墙周庭，以当南日，日影反照，室始洞然。又杂植兰桂竹木于庭，旧时栏楯，亦遂增胜。借书满架，偃仰啸歌，冥然兀坐，万籁有声；而庭阶寂寂，小鸟时来啄食，人至不去。三五之夜，明月半墙，桂影斑驳，风移影动，珊珊可爱。
-　然余居于此，多可喜，亦多可悲。先是，庭中通南北为一。迨诸父异爨，内外多置小门墙，往往而是，东犬西吠，客逾庖而宴，鸡栖于厅。庭中始为篱，已为墙，凡再变矣。家有老妪，尝居于此。妪，先大母婢也，乳二世，先妣抚之甚厚。室西连于中闺，先妣尝一至。妪每谓余曰：“某所，而母立于兹。” 妪又曰：“汝姊在吾怀，呱呱而泣；娘以指叩门扉曰：‘儿寒乎？欲食乎？’吾从板外相为应答。” 语未毕，余泣，妪亦泣。余自束发读书轩中，一日，大母过余曰：“吾儿，久不见若影，何竟日默默在此，大类女郎也？” 比去，以手阖门，自语曰：“吾家读书久不效，儿之成，则可待乎！” 顷之，持一象笏至，曰：“此吾祖太常公宣德间执此以朝，他日汝当用之！” 瞻顾遗迹，如在昨日，令人长号不自禁。
-　轩东，故尝为厨，人往，从轩前过。余扃牖而居，久之，能以足音辨人。轩凡四遭火，得不焚，殆有神护者。
-　项脊生曰：“蜀清守丹穴，利甲天下，其后秦皇帝筑女怀清台；刘玄德与曹操争天下，诸葛孔明起陇中。方二人之昧昧于一隅也，世何足以知之，余区区处败屋中，方扬眉、瞬目，谓有奇景。人知之者，其谓与坎井之蛙何异？”
-　余既为此志，后五年，吾妻来归，时至轩中，从余问古事，或凭几学书。吾妻归宁，述诸小妹语曰：“闻姊家有阁子，且何谓阁子也？” 其后六年，吾妻死，室坏不修。其后二年，余久卧病无聊，乃使人复葺南阁子，其制稍异于前。然自后余多在外，不常居。
-　庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣。</description>
+      <guid>https://cola5.cc/posts/helloworld/</guid>
+      <description>项脊轩，旧南阁子也。室仅方丈，可容一人居。百年老屋，尘泥渗漉，雨泽下注；每移案，顾视无可置者。又北向，不能得日，日过午已昏。余稍为修葺，使不</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://cola5.cc/about/</link>
+      <link>https://cola5.cc/about/</link>
       <pubDate>Thu, 23 Jun 2022 23:08:48 +0800</pubDate>
       
-      <guid>http://cola5.cc/about/</guid>
+      <guid>https://cola5.cc/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>http://cola5.cc/posts/first/</link>
+      <link>https://cola5.cc/posts/first/</link>
       <pubDate>Thu, 23 Jun 2022 22:24:30 +0800</pubDate>
       
-      <guid>http://cola5.cc/posts/first/</guid>
+      <guid>https://cola5.cc/posts/first/</guid>
       <description>hello world 🔗 this is a test file  </description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://cola5.cc/posts/markdown-syntax/</link>
+      <link>https://cola5.cc/posts/markdown-syntax-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cola5.cc/posts/markdown-syntax/</guid>
+      <guid>https://cola5.cc/posts/markdown-syntax-guide/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>http://cola5.cc/posts/rich-content/</link>
+      <link>https://cola5.cc/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cola5.cc/posts/rich-content/</guid>
+      <guid>https://cola5.cc/posts/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>http://cola5.cc/posts/placeholder-text/</link>
+      <link>https://cola5.cc/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cola5.cc/posts/placeholder-text/</guid>
+      <guid>https://cola5.cc/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>http://cola5.cc/posts/math-typesetting/</link>
+      <link>https://cola5.cc/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cola5.cc/posts/math-typesetting/</guid>
+      <guid>https://cola5.cc/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>http://cola5.cc/posts/emoji-support/</link>
+      <link>https://cola5.cc/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cola5.cc/posts/emoji-support/</guid>
+      <guid>https://cola5.cc/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

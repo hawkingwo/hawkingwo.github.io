@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cola5.cc/</loc>
+    <loc>https://cola5.cc/</loc>
     <lastmod>2022-06-26T21:51:21+08:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/</loc>
+    <loc>https://cola5.cc/posts/</loc>
     <lastmod>2022-06-26T21:51:21+08:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/202206/using-git/</loc>
+    <loc>https://cola5.cc/posts/using-git/</loc>
     <lastmod>2022-06-26T21:51:21+08:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/202206/helloworld/</loc>
+    <loc>https://cola5.cc/posts/helloworld/</loc>
     <lastmod>2022-06-25T10:37:04+08:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/about/</loc>
+    <loc>https://cola5.cc/about/</loc>
     <lastmod>2022-06-23T23:08:48+08:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/first/</loc>
+    <loc>https://cola5.cc/posts/first/</loc>
     <lastmod>2022-06-23T22:24:30+08:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/categories/</loc>
+    <loc>https://cola5.cc/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/tags/css/</loc>
+    <loc>https://cola5.cc/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/tags/html/</loc>
+    <loc>https://cola5.cc/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/tags/markdown/</loc>
+    <loc>https://cola5.cc/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/markdown-syntax/</loc>
+    <loc>https://cola5.cc/posts/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/categories/syntax/</loc>
+    <loc>https://cola5.cc/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/tags/</loc>
+    <loc>https://cola5.cc/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/categories/themes/</loc>
+    <loc>https://cola5.cc/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/tags/privacy/</loc>
+    <loc>https://cola5.cc/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/rich-content/</loc>
+    <loc>https://cola5.cc/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/tags/shortcodes/</loc>
+    <loc>https://cola5.cc/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/placeholder-text/</loc>
+    <loc>https://cola5.cc/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/tags/text/</loc>
+    <loc>https://cola5.cc/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/math-typesetting/</loc>
+    <loc>https://cola5.cc/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/tags/emoji/</loc>
+    <loc>https://cola5.cc/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/posts/emoji-support/</loc>
+    <loc>https://cola5.cc/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://cola5.cc/about/</loc>
+    <loc>https://cola5.cc/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
